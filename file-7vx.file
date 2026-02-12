@@ -1,0 +1,5 @@
+PORT=3000
+MONGODB_URI=mongodb://localhost:27017/gamezone
+JWT_SECRET=gamezone_super_secret_key_2026
+RAZORPAY_KEY_ID=your_razorpay_key
+RAZORPAY_KEY_SECRET=your_razorpay_secret

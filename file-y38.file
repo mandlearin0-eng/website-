@@ -1,0 +1,5 @@
+mkdir gamezone
+cd gamezone
+npm init -y
+npm install express mongoose bcryptjs jsonwebtoken cors dotenv multer
+npm install -D nodemon
